@@ -1,0 +1,4 @@
+Model,Mean Test Accuracy (%),Mean Balanced Accuracy (%)
+CSP + LDA,58.84,58.830000000000005
+Original CNN,54.73,54.83
+CNN + Early Stopping + Weight Decay,56.22,56.38
